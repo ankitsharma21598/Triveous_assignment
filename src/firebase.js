@@ -2,13 +2,14 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCIn1-Vjig0AJanGMfQvA5loD363HTSIZs',
-  authDomain: 'triveous-news-app-6fc13.firebaseapp.com',
-  projectId: 'triveous-news-app-6fc13',
-  storageBucket: 'triveous-news-app-6fc13.appspot.com',
-  messagingSenderId: '584578348897',
-  appId: '1:584578348897:web:4fa0bbcee244099169f720',
+  apiKey: "AIzaSyCT-BwoWlWY-Ax3JI73HCwmKF8H-cgoGaE",
+  authDomain: "triveous-82557.firebaseapp.com",
+  projectId: "triveous-82557",
+  storageBucket: "triveous-82557.appspot.com",
+  messagingSenderId: "930897794415",
+  appId: "1:930897794415:web:465d7f0a7b367d4a7c049a"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
